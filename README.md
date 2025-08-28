@@ -63,3 +63,6 @@ I'm a passionate coder focused on **software development** and **electronics eng
 ## 🌐 Connect with Me  
 - 💼 [Portfolio Website](https://softwarebuilder.vercel.app/)
 - 🧑‍🏫 [FreeCodeCamp Journey](https://www.freecodecamp.org/byteberry)
+- 🌐 [Devpost](https://devpost.com/diodeengineer?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) – Hackathon projects & submissions
+- 📊 [Kaggle](https://www.kaggle.com/yourusername) – ML & Data Science profile
+
